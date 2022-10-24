@@ -1,0 +1,70 @@
+
+body {
+    background-color: #475c8b; 
+   
+}
+main{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    /* height: 200px; */
+    width: 400px;
+    /* margin: 10px; */
+    margin-left: calc(50% - 400px / 2);
+    margin-top: 100px;
+}
+h1{
+    background-color: rgb(236, 232, 232);
+    color: rgb(113, 110, 110);
+}
+#skaiciukai > div {
+    height: 19px;
+    padding-left: 5px;
+}
+
+#p14 {
+    
+    background-color: rgb(3, 85, 249);
+} 
+#p13 {
+    background-color: rgb(22, 98, 250);
+} 
+#p12 {
+    background-color: rgb(44, 113, 250);
+} 
+#p11 {
+    background-color: rgb(72, 131, 250);
+}
+#p10 {
+    background-color: rgb(91, 142, 244);
+}
+#p9 {
+    background-color: rgb(105, 151, 243);
+}
+#p8 {
+    background-color: rgb(122, 163, 244);
+}
+#p7 {
+    background-color: rgb(99, 177, 99);
+}
+#p6 {
+    background-color: rgb(248, 169, 183);
+}
+#p5 {
+    background-color: rgb(249, 157, 174);
+}
+#p4 {
+    background-color: rgb(246, 143, 162);
+}
+#p3 {
+    background-color: rgb(247, 128, 150);
+}
+#p2 {
+    background-color: rgb(247, 113, 137);
+}
+#p1 {
+    background-color: rgb(247, 98, 126);
+}
+#p0 {
+    background-color: rgb(250, 81, 112);
+}
